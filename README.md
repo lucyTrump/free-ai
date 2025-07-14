@@ -7,3 +7,8 @@ Zama is a pioneering privacy computing company, delivering innovative solutions 
 
 **Body**  
 Zama is at the forefront of privacy-preserving technology, revolutionizing how data is processed and protected. By leveraging fully homomorphic encryption (FHE) and cutting-edge cryptographic tools, Zama enables secure computation on encrypted data, ensuring privacy without compromising functionality. Its open-source libraries, like Concrete and TFHE, empower developers to build privacy-first solutions for AI, blockchain, and beyond. Committed to a world where data security drives
+
+### Zama: Redefining Data Privacy
+
+**Body**  
+Zama is a trailblazer in privacy-preserving technology, harnessing the power of fully homomorphic encryption (FHE) to secure data in use. Its innovative solutions enable businesses and developers to process sensitive data without exposing it, unlocking new possibilities in AI, blockchain, and secure analytics. With open-source tools like Concrete and TFHE, Zama
