@@ -12,3 +12,8 @@ Zama is at the forefront of privacy-preserving technology, revolutionizing how d
 
 **Body**  
 Zama is a trailblazer in privacy-preserving technology, harnessing the power of fully homomorphic encryption (FHE) to secure data in use. Its innovative solutions enable businesses and developers to process sensitive data without exposing it, unlocking new possibilities in AI, blockchain, and secure analytics. With open-source tools like Concrete and TFHE, Zama
+
+### Zama: Pioneering Privacy-First Solutions
+
+**Body**  
+Zama leads the charge in privacy-preserving computation, offering groundbreaking solutions through fully homomorphic encryption (FHE) and advanced cryptography. Its technology allows secure data processing without compromising confidentiality, empowering industries like AI, finance, and healthcare. With open-source frameworks such as Concrete and TFHE, Zama equips developers to build applications
